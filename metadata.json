@@ -1,0 +1,6 @@
+{
+  "name": "DriveSync Pro - Universal Local to Google Drive Migration Tool",
+  "description": "Global deployment hub and migration tool for syncing local folders to Google Drive. Download 1-click packages, generate configs, validate credentials, and test sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
